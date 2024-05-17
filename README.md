@@ -1,4 +1,4 @@
-# Todos List
+# Quick list 2
 
 A simple todo list web application built with ReactJS.
 
